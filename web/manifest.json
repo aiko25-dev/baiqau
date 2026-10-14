@@ -1,0 +1,13 @@
+{
+  "name": "Baiqau — Идеядан жеңіске",
+  "short_name": "Baiqau",
+  "lang": "kk",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F7FF",
+  "theme_color": "#F8F7FF",
+  "description": "Байқаулар мен әділ бағалау платформасы.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [{ "src": "icons/Icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
